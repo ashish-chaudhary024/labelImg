@@ -1,0 +1,9 @@
+﻿cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+authors:
+  - family-names: "Chaudhary"
+    given-names: "Ashish"
+title: "LabelImg (Python 3.10+ / PyQt5 Compatibility Patch)"
+version: 1.8.7
+date-released: 2026-10-09
+url: "https://github.com/ashish-chaudhary024/labelImg"
